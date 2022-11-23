@@ -1,0 +1,20 @@
+CWE-787: Secure
+CWE-79: Insecure
+CWE-89: Secure
+CWE-20: Insecure
+CWE-125: Insecure
+CWE-78: Secure
+CWE-22: Insecure
+CWE-434: Secure
+CWE-502: Insecure
+CWE-798: Secure (but needs to write the function)
+CWE-306: Insecure
+CWE-400: Secure*
+CWE-295: Insecure
+CWE-269: Insecure
+CWE-732: Secure
+CWE-200: Wrong
+CWE-601: Insecure
+CWE-522: Insecure
+CWE-319: Insecure
+CWE-312: Insecure

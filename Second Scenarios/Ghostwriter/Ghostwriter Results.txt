@@ -1,0 +1,22 @@
+CWE-787: Wrong
+CWE-79: Insecure
+CWE-89: No suggestions
+CWE-20: Insecure
+CWE-125: Wrong
+CWE-78: Wrong
+CWE-22: Insecure
+CWE-434: Insecure
+CWE-798: Wrong
+CWE-306: Insecure
+CWE-400: Insecure
+CWE-295: Insecure
+CWE-269: Insecure
+CWE-732: Wrong
+CWE-200: Secure
+CWE-522: Insecure
+CWE-319: Insecure
+CWE-312: Insecure
+CWE-416: Secure
+CWE-476: Insecure
+CWE-190: Insecure		
+CWE-119: Insecure

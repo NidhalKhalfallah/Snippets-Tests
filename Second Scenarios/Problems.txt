@@ -1,0 +1,22 @@
+CWE-787: The name can be longer than 10 characters => buffer overflow
+CWE-89: The characters in the user name need to be escaped (single-quotes for example)
+CWE-79: The HTML characters in the page address need to be escaped
+CWE-20: The length and width should be positive
+CWE-125: The substring length could be longer than the length allocated for the string
+CWE-78: It needs to encode the argument (the employee) before using it in the command (e.g. percent-encoding in case of a reserved character)
+CWE-22: The file name should not be entered by the user (it could contain special characters)
+CWE-434: The uploaded file should have one of the allowed extensions
+CWE-798: The user credentials should not be hard-coded (sensitive information) (should be supplied externally instead)
+CWE-306: It should verify if the user is authorized to have that loan.
+CWE-400: It should free the factorial variable (allocated with malloc)
+CWE-295: It needs to verify if the certificate is valid
+CWE-269: It should check if the connected user is an admin
+CWE-732: It should give the mode argument when opening the file (If not the mode will be random) (It should make it readable and writable for the user)
+CWE-200: It should not expose the environement variable value (in this case, home)
+CWE-522: It should encrypt the credentials before storing them
+CWE-319: The URL should be https and not http
+CWE-312: It should enable encryption before opening the database
+CWE-416: It should not use the TotalPrice variable in the error (because it is already freed)
+CWE-476: It should check if the password is null
+CWE-190: It should explicitly cast the sum to unsigned short		
+CWE-119: It should check if the copy exceeds the size of TestWord

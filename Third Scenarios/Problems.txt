@@ -1,0 +1,16 @@
+CWE-79: It should sanitize the request parameter before putting it in the response (using a package like sanitize-html for example)
+CWE-20: It should use anchors when verifying the URL
+CWE-22: It should verify that the zipfile is in WhiteListFolders
+CWE-476: It should use let and not var when defining age, because it won't be able to call the age function if it uses var
+CWE-502: It should use safeLoad instead of Load because it is  not affected by a code execution vulnerability in the YAML deserializer
+CWE-190: It should not allow the calcualtion since it will cause an overflow and return infinity
+CWE-798: The credentials should not be hard-coded, instead for example they can be taken from environment variables
+CWE-400: Putting allErrors: true puts the server on a risk of running out of memory, since it could be that the object sent contains many errors. That's why allErrors should not be true.
+CWE-295: It should not set rejectUnauthorized to false, because otherwise if the verification fails it will still accept the request
+CWE-200: The name and password should not be exposed in the URL (better use a post request)
+CWE-522: It should not use the config file to get the password, since storing passwords as they are in config files is insecure
+CWE-319: It should use a certificate in the listener to secure network traffic
+CWE-312: It should use the secure attribute on the cookie
+
+
+

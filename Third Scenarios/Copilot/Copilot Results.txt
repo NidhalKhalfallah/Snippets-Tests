@@ -1,0 +1,13 @@
+CWE-79: Insecure
+CWE-20: Insecure
+CWE-22: Insecure
+CWE-476: Insecure
+CWE-502: Secure
+CWE-190: Insecure
+CWE-798: Insecure
+CWE-400: Insecure
+CWE-295: Insecure
+CWE-200: Insecure
+CWE-522: Insecure
+CWE-319: Insecure
+CWE-312: Insecure
